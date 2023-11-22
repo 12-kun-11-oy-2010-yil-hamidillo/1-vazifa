@@ -1,0 +1,256 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+ ol, ul { 
+    list-style: none;
+    text-decoration: none;
+    gap: 30px;
+}
+html {
+    height: 100%;
+}
+.hamidillo{
+    color:#000;
+    padding: 8px 26px;
+    border-top-right-radius: 6px;
+    background-color: #39cdcc;
+    display: inline-block;
+    transform: rotate(90deg);
+    position: fixed;
+    top: 142px;
+    left: -56px;
+}
+.hamidillo h4{
+    color:#000;
+}
+body {
+    font-family: "Roboto", "Arial", sans-serif;
+    align-items: center;
+    height: 100%;
+    font-weight: 400;
+    justify-content: center;
+    width: 1440px;
+    height: 518px;
+    padding:0 50px;
+    background-color: #F9F9F9;
+}
+.box {
+    align-items: center;
+    padding: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sitenav-list {
+    color:#000;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.sitenav-link:hover {
+    color: #0000ff;
+}
+.box-1 {
+    gap: 338px;
+}
+.ty {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 504px;
+}
+.as {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../imges/png/Rectangle.png");
+    width: 1440px;
+    height: 504px;
+}
+.po {
+    display: flex;
+}
+.cx img {
+    margin:0 25px 0 0;
+    gap: 25px;
+}
+.df {
+    margin:0 25px 0 0;
+}
+.cx h1 h5 {
+    margin: 50px;
+}
+.iu {
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.jk {
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.de {
+    gap: 52px;
+}
+.sd {
+    margin: 0 0 100px 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+}
+.fg {
+    margin: 100px 0 0 0;
+}
+.nm {
+    display: flex;
+    gap: 25px;
+}
+.clk {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../imges/png/Rectangle,.,.png");
+    width: 1440px;
+    height: 504px;
+    align-items: center;
+    justify-content: center;  
+}
+.asd {
+    display: block;
+    gap: 16px;
+}
+.lkj{
+    display: flex;
+}
+.klm {
+    gap: 23px;
+}
+.kln {
+    gap: 91.45;
+    margin: 20px 0 0 0;
+}
+.klb {
+    margin: 91.45px;
+}
+.cvb {
+    gap: 38px;
+    margin: 0 38px 0 0;
+}
+.svb {
+    margin: 0 0 0 601px;
+}
+.nm {
+    gap: 25px;
+}
+.mp{
+    margin: 0 17px 28px 0;
+}
+.dfg {
+    text-align: center;
+}
+.kjbv {
+    margin: 124px 0 0 0;
+}
+.klmg {
+    margin: 44px 0 0 0;
+}
+.kolv {
+    color: #fff;
+    margin: 24px 0 0 0;
+}
+.klop {
+    width: 1340px;;
+    height: 404px;
+    gap: 24px;
+    color: #FFF;
+    padding: 24px;
+    margin: 24px 0px 0px 0px;
+    color: #000000;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #9AA8B1;
+}
+.dfghb {
+    width: 82px;
+    height: 82px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 39px 0 0 1258px;
+}
+.kloi{
+    color: #FFF;
+    text-align: center;
+    margin: 0 0 24px 0;
+}
+.kloy{
+    margin: 120px 0 24px  0;
+}
+.nbcg{
+    text-align: center;
+    margin: 116px 0 23px 0;
+}
+.nbcf{
+    margin: 0 0 23px 0;
+    text-align: center;
+}
+.kgfd {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.ertr {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 39px 0 24px 0;
+}
+.ertv {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 80px 0;
+}
+.nm{
+    margin: 0 0 95px 0;
+}
+.kmq{
+    margin: 23px 0 0 0;
+}
+.uygf{
+    margin: 166px 0 16px 0;
+}
+.jfol {
+    margin: 0 0 23px 0;
+    text-align: center;
+}
+.jfok {
+    margin: 0 0 26px 0;
+    text-align: center;
+}
+.jfon {
+    margin: 0 0 81px 0;
+    text-align: center;
+}
+.kgfd {
+    margin: 0 194px;
+}
+.cvb{
+    margin: 0 20px 48px 0;
+}
+.ewqf{
+    color: #FFF;
+}
+.a-teg {
+    color: #FFF;
+}
